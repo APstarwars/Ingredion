@@ -1,2 +1,2 @@
 # Cal-Hacks-6.0
-Unknown
+Project idea currently under development
