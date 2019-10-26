@@ -12,16 +12,12 @@ app.get('/', function(req, res) {
 
 app.listen(3000);
 
-// // Imports the Google Cloud client libraries
-// const vision = require('@google-cloud/vision');
-// const fs = require('fs');
+// Imports the Google Cloud client libraries
+const vision = require('@google-cloud/vision');
+const fs = require('fs');
 
-// // Creates a client
-// const client = new vision.ImageAnnotatorClient();
-
-/**
- * TODO(developer): Uncomment the following line before running the sample.
- */
+// Creates a client
+const client = new vision.ImageAnnotatorClient();
 
 // const fileName = `/./`;
 // const request = {
