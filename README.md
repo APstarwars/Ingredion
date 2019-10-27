@@ -1,2 +1,2 @@
 # Cal-Hacks-6.0
-Project idea currently under development
+Connect the Spoonacular API with Google Cloud!
