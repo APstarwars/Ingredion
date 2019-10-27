@@ -10,13 +10,19 @@ font-size: 30px;
 text-align: center;
 }
 
-.imageButton{
-font-size: 20px;
-background-color: #e7e7e7; color: black;
-}
 
 .imageButton:hover {
-    background-color: grey;
+    background-color: #008C0A;
     color: white;
 }
 
+.imageButton{
+  background-color: #008CBA; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
